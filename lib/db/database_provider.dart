@@ -47,7 +47,7 @@ class DatabaseProvider {
           "$COLUMN_IMEI INTEGER,"
           "$COLUMN_FIRST_NAME TEXT,"
           "$COLUMN_LAST_NAME TEXT,"
-          "$COLUMN_DOB TEXT,"
+          "$COLUMN_DOB BLOB,"
           "$COLUMN_PASSPORT_NO TEXT,"
           "$COLUMN_EMAIL TEXT,"
           "$COLUMN_CUSTOMER_PHOTO TEXT"

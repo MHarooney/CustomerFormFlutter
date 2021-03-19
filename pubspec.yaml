@@ -53,9 +53,6 @@ dependencies:
   #https://pub.dev/packages/imei_plugin/install
   imei_plugin: ^1.2.0
 
-  #To display the database
-  localstorage: ^3.0.6
-
 
 
 
